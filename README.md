@@ -6,4 +6,4 @@
 ## Version 1.00 (03/01/2024)
 - Output file is only saved if it is a brand new file. The App will not overwrite existing files. That needs to be added for future versions of the App. Please keep this in mind while annotating.
 ## License
-- This App was built for research/academic purposes and not commercial use. Nonetheless, the software in this repository is licensed under the MIT license.
+- This App was built for research/academic purposes and not commercial use. The authors are not liable for any issues that may arise from using the software, and there are no warranties associated with the software. If you would like to use the software, contact the authors.
